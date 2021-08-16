@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name RyanKB)(type Legacy)(uri ${KIPRJMOD}/RyanKB.lib)(options "")(descr "")(disabled))
+  (lib (name SparkFun-Electromechanical)(type Legacy)(uri C:/Users/Ryan/Documents/KiCad/SparkFun-Kicad-Libraries-master/SparkFun-Electromechanical.lib)(options "")(descr ""))
+  (lib (name Ryan_KB)(type Legacy)(uri ${KIPRJMOD}/Ryan_KB.lib)(options "")(descr ""))
+)

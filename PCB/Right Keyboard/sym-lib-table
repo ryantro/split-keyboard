@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SparkFun-Electromechanical)(type Legacy)(uri C:/Users/Ryan/Documents/KiCad/SparkFun-Kicad-Libraries-master/SparkFun-Electromechanical.lib)(options "")(descr ""))
+  (lib (name Ryan_KB)(type Legacy)(uri "C:/Users/Ryan/Dropbox/Courses/ECE561/Project/PCB/Left Keyboard/Ryan_KB.lib")(options "")(descr ""))
+)

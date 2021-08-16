@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/Ryan/Documents/KiCad/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri C:/Users/Ryan/Documents/KiCad/teensy.pretty-master)(options "")(descr ""))
+)
